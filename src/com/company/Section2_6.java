@@ -20,7 +20,7 @@ public class Section2_6 {
 
         System.out.println(a + " " + b + " " + c);
 
-        System.out.println("The multiplication of all digits in 999 is " + digits);
+        System.out.println("The multiplication of all digits in " + number + " is " + digits);
 
 
     }
